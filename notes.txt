@@ -1,0 +1,25 @@
+1. Difference between HTTP1.1 vs HTTP2
+    The basic difference between HTTP1.1 and HTTP2 is the time taken to upload the content.
+    example: HTTP1.1 is a standardise one for last 15 years but it is similar to one-lane road,
+    when we look into HTTP2 it is like express highway.
+
+2. Objects and internal representation in Javascript.
+    ->Objects are representation of real world entity in any language representing things by defining its 
+      properties along with their values.
+    ->In other words, Objects may also be defined as an unordered collection of related data, of primitive or 
+    reference types, in the form of "Key:value" pairs.
+
+    syntax:
+        var objectname={
+            key : value;
+            .
+            .
+        };
+
+    Example: 
+        var profile={
+            name: "Luffy";
+            age : 22;
+            dob : 08jan1999;
+            year: 2021;
+        }
